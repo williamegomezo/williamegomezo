@@ -2,13 +2,13 @@
 
 ## I'm a Web Developer, Teacher, Entrepreneur, and Volleyball lover.
 
-Personal website: [[website]]([website])
+Personal website: [website]
 
 - 🔭 I’m currently working on cms, e-commerce, SSR and CI/CD.
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
 - 👯 I’m looking to collaborate on frontend and backend frameworks.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [email][email]
+- 📫 How to reach me: [email]
 - ⚡ Fun fact: You will discover that I really have bad luck in stupid things (at least).
 
 ### Spotify Playing 🎧
