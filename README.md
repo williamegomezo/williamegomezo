@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Teacher, Entrepreneur, and Volleyball lover.
 
-Personal website: [website]([website]{:target="_blank"})
+Personal website: [![website]](![website])
 
 - 🔭 I’m currently working on cms, e-commerce, SSR and CI/CD.
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
@@ -17,10 +17,10 @@ Personal website: [website]([website]{:target="_blank"})
 
 ### Connect with me:
 
-[<img align="left" alt="www.williamegomezo.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="_blank"}
-[<img align="left" alt="William Gomez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]{:target="_blank"}
-[<img align="left" alt="William Gomez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]{:target="_blank"}
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]{:target="_blank"}
+[<img align="left" alt="www.williamegomezo.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="William Gomez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="William Gomez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://www.williamegomezo.me
 [youtube]: https://www.youtube.com/channel/UC1lxl2CURjQY1Lklp-7Gptw
