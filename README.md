@@ -13,7 +13,7 @@ Personal website: <a href="https://www.williamegomezo.me">williamegomezo.me</a>
 
 ### Spotify Playing 🎧
 
-<a href="[spotify]" target="blank">
+<a href="https://open.spotify.com/user/12171556847" target="blank">
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 </a>
 
