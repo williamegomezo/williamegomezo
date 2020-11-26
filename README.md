@@ -1,7 +1,7 @@
 ### Hola hola, Hello hello, Hallo hallo, bienvenidos! 👋
 
 
-[Website](https://williamegomezo.me)
+[https://williamegomezo.me](https://williamegomezo.me)
 
 - 🔭 I’m currently working on cms, e-commerce, SSR and CI/CD.
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
