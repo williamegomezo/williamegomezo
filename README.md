@@ -8,7 +8,7 @@ Personal website: [website]([website])
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
 - 👯 I’m looking to collaborate on frontend and backend frameworks.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Email][email]
+- 📫 How to reach me: [email][email]
 - ⚡ Fun fact: You will discover that I really have bad luck in stupid things (at least).
 
 ### Spotify Playing 🎧
