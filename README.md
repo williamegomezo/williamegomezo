@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Teacher, Entrepreneur, and Volleyball lover.
 
-Personal website: [website]([website])
+Personal website: [[website]]([website])
 
 - 🔭 I’m currently working on cms, e-commerce, SSR and CI/CD.
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
