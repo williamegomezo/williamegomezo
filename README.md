@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Teacher, Entrepreneur, and Volleyball lover.
 
-Personal website: <a href="https://www.williamegomezo.me" target="_blank">williamegomezo.me</a>
+Personal website: <a href="https://www.williamegomezo.me">williamegomezo.me</a>
 
 - 🔭 I’m currently working on cms, e-commerce, SSR and CI/CD.
 - 🌱 I’m currently learning kubernetes, AWS, and GCP.
