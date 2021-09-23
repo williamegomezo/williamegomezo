@@ -12,12 +12,6 @@ Personal website: <a href="https://www.williamegomezo.me">williamegomezo.me</a>
 
 - ⚡ Fun fact: You will discover that I really have bad luck in stupid things (at least).
 
-### Spotify Playing 🎧
-
-<a href="https://open.spotify.com/user/12171556847" target="blank">
-  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
-</a>
-
 ### Connect with me:
 
 [<img align="left" alt="www.williamegomezo.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
