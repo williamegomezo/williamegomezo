@@ -1,4 +1,4 @@
-### Hola hola, Hello hello, Hallo hallo, bienvenidos! 👋
+### Hola hola, Hello hello, Hallo hallo, Konnichiwa, bienvenidos! 👋
 
 ## I'm a Web Developer, Teacher, Entrepreneur, and Volleyball lover.
 
